@@ -1,0 +1,23 @@
+Langkah :
+1. Buat project baru dengan nama "DeretKelipatan4".
+2. Buat class baru dengan nama "DeretKelipatan4_90476".
+3. Ketikkan source code program.
+
+Analisa :
+0. Package deretkelipatan4
+1. lakukan import librari util->Scanner.
+2. Deklarasi nama class.
+3. Deklarasi main program.
+4. Buat obyek scan dari Scanner.
+5. Buat variabel angka dengan nama banyak
+6. Tampilkan "Banyak Deret : ".
+7. Tangkap input dan simpan pada variabel banyak
+8. Buat array angka dengan nama deret dan isi dari variabel banyak
+9. Perulangan for selama i=0 dan i < bayak
+10.Isi deret ke i dengan i*4-2
+11. i+1
+12.Perulangan for sebanyak isi deret
+13.Tampilkan isi deret ke i
+14.Tampilkan spasi kosong
+15.Pindah kursor ke baris baru.
+

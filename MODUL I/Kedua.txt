@@ -1,0 +1,21 @@
+Langkah :
+1. Buat project baru dengan nama "PengujianSegitiga".
+2. Buat class baru dengan nama "PengujianSegitiga90476".
+3. Ketikkan source code program.
+
+Analisa :
+1. lakukan import librari util->Scanner.
+2. Deklarasi nama class.
+3. Deklarasi main program.
+4. buat variabel angka a,b,c.
+5. Buat obyek scan dari Scanner.
+6. Tampilkan "Masukkan ketiga panjang sisi segitiga"
+7. Tangkap input dan simpan pada variabel a
+8. Tangkap input dan simpan pada variabel b
+9. Tangkap input dan simpan pada variabel c
+10.Jika (c*2 < a*2 + b*2) = benar
+11.Tampilkan "SEGITIGA LANCIP".
+12.Jika (c*2 > a*2 + b*2) = benar
+13.Tampilkan "SEGITIGA TUMPUL".
+14.Jika salah
+15.Tampilkan "SEGITIGA SIKU SIKU"

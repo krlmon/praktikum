@@ -1,0 +1,3 @@
+1. Buat project baru dengan nama "InputProgram".
+2. Buat class baru dengan nama "InputProgram90476".
+3. Ketikkan source code program.

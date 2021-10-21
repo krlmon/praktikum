@@ -1,0 +1,28 @@
+Langkah :
+1. Buat project baru dengan nama "CekPlatnomor".
+2. Buat class baru dengan nama "CekPlatnomor90476".
+3. Ketikkan source code program.
+
+Analisa :
+1. lakukan import librari util->Scanner.
+2. Deklarasi nama class.
+3. Deklarasi main program.
+4. Buat obyek scan dari Scanner.
+5. Buat variabel karakter plat.
+6. Tampilkan "Masukkan kode Plat : ".
+7. Tangkap input dan simpan pada variabel plat.
+8. Perulangan switch dengan input plat
+9. ketika plat = 'L'
+10.Tampilkan "Plat Surabaya"
+11.program selesai
+12.ketika plat = 'B'
+13.Tampilkan "Plat Jakarta"
+14.program selesai
+15.ketika plat = 'N'
+16.Tampilkan "Plat Malang"
+17.program selesai
+18.ketika plat = 'D'
+19.Tampilkan "Plat Bandung"
+20.program selesai
+21.default
+22. Tampilkan "Plat tidak dikenal oleh sistem"
